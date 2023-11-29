@@ -1,0 +1,20 @@
+{
+  "name": "@nuxt-themes/alpine-fork",
+  "version": "1.6.4",
+  "type": "module",
+  "exports": "./nuxt.config.ts",
+  "packageManager": "pnpm@8.5.1",
+  "files": [
+    "components",
+    "layouts",
+    "app.vue",
+    "nuxt.config.ts"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "pnpm": {
+  },
+  "license": "MIT"
+}
